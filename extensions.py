@@ -1,8 +1,14 @@
-#.ptyFile Extensions
+#File Extensions
+# A tool that uses if elif else statements to check file types 
+# input full file name and tool will spit out file type . 
+# challange only asked for 5 types of files i added all common MIME types from https://developer.mozilla.org/en-US/docs/Web/HTTP/MIME_types/Common_types.
 
 
 
-file_name = input("Enter file name with extension: ").strip().lower()
+
+
+
+file_name = input("Enter file name with extension: eg  Image.jpg ").strip().lower()
 
 
 
