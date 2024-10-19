@@ -1,5 +1,7 @@
 #Math interpreter
-expression = input("what is you math question ?")
+# basic calculator that adds subtracts , mutiplies and divides 
+#
+expression = input("What is you math question ? e.g. '2 + 2' : ?")
 
 x, y, z = expression.split(" ")
 
