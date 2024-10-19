@@ -1,4 +1,8 @@
 #Home Federal Savings Bank
+# If input is Hello user gets $0
+# if user input begins with H user gets $20
+# if nothing is entered user gets $100 dollars 
+# sceane made famous by Seinfeld scene 7 ep 24
 
 def main():
 
