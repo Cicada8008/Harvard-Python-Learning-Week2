@@ -1,6 +1,9 @@
+# A tool that takes time **:**(24 hour time)  checks vs meal times to explain if its breakfast lunch or dinner time 
+
+
 def main():
 
-    time = input("What time is it ")
+    time = input("What time is it? (in this format **:**) ")
 
 
 
